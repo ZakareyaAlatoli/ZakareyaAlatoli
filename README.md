@@ -3,17 +3,17 @@
 <br><b>Contact Info:</b>
 Email: zakareya.m.alatoli@gmail.com
 
-#Skills:
-##Programming Languages:<
--Python 
--Javascript 
--Java 
--C++ 
--C 
--C#
+#Skills
+##Programming Languages
+- Python 
+- Javascript 
+- Java 
+- C++ 
+- C 
+- C#
 ##Frameworks/Libraries
--.NET (since 2016)
--Node.js (since 2019)
+- .NET (since 2016)
+- Node.js (since 2019)
 
 <!---
 ZakareyaAlatoli/ZakareyaAlatoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
