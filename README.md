@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZakareyaAlatoli
-- 👀 I’m interested in fullstack web development. I am looking to collaborate on web apps.
+
+*I’m interested in fullstack web development. I am looking to collaborate on web apps.*
 <br><b>Contact Info:</b>
-Email: zakareya.m.alatoli@gmail.com
+📧: zakareya.m.alatoli@gmail.com
 
 # Skills
 ## Programming Languages
@@ -14,6 +14,7 @@ Email: zakareya.m.alatoli@gmail.com
 ## Frameworks/Libraries
 - .NET (since 2016)
 - Node.js (since 2019)
+- React JS
 
 <!---
 ZakareyaAlatoli/ZakareyaAlatoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
