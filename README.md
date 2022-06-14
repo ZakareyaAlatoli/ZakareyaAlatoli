@@ -3,15 +3,15 @@
 <br><b>Contact Info:</b>
 Email: zakareya.m.alatoli@gmail.com
 
-#Skills
-##Programming Languages
+# Skills
+## Programming Languages
 - Python 
 - Javascript 
 - Java 
 - C++ 
 - C 
 - C#
-##Frameworks/Libraries
+## Frameworks/Libraries
 - .NET (since 2016)
 - Node.js (since 2019)
 
