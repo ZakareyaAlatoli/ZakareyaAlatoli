@@ -1,5 +1,5 @@
-
-*I’m interested in fullstack web development. I am looking to collaborate on web apps.*
+*I’m a programmer who can work in any discipline 
+but has a special interest in fullstack web development. I am looking to collaborate on web apps.*
 <br><b>Contact Info:</b>
 📧: zakareya.m.alatoli@gmail.com
 
