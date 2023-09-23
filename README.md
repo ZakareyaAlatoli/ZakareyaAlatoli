@@ -1,12 +1,12 @@
 *I’m a programmer who can work in any discipline 
-but has a special interest in fullstack web development. I am looking to collaborate on web apps.*
-<br><b>Contact Info:</b>
+but has a special interest in backend development. I am looking to collaborate on web apps.*
+<br><b>Contact Info: </b>
 📧: zakareya.m.alatoli@gmail.com
 
 # Skills
 ## Programming Languages
 - Python 
-- Javascript 
+- JavaScript 
 - Java 
 - C++ 
 - C 
